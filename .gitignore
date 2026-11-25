@@ -53,6 +53,7 @@ credentials.json
 token.json
 
 !docs/docs.json
+!rrss-toolkit/skills/manifest.json
 
 
 temp-profile-*
@@ -84,3 +85,5 @@ product_extraction.py
 plot.py
 
 .claude/
+BLUEPRINT_browser_backup*.md
+*.png
